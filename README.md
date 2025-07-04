@@ -46,9 +46,8 @@ npm run dev
 
 ## 📷 Screenshots
 
-*Add a screenshot here if you have one!*
-Example:
-![Screenshot](./screenshot.png)
+![Uploading image.png…]()
+
 
 ---
 
@@ -64,9 +63,3 @@ Example:
 
 If you liked this project, feel free to give it a ⭐️ on GitHub!
 
-```
-
----
-
-Would you like me to generate this as a downloadable file again so you can upload it to your `Digital-react-app` repo?
-```
