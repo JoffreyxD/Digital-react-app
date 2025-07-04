@@ -1,11 +1,3 @@
-Of course! Here's a custom `README.md` for your **Digital React App**, written clearly to showcase the project to others on GitHub:
-
----
-
-### 📘 `README.md` for [Live Demo](https://joffreyxd.github.io/Digital-react-app/)
-
-
-````markdown
 # 🧠 Digital React App
 
 This is a simple **React application** created using **Vite**. It serves as a project to practice React components, props, state, and JSX.
@@ -29,6 +21,18 @@ This is a simple **React application** created using **Vite**. It serves as a pr
 - **Vite**
 - **JavaScript (ES6+)**
 - **HTML5 & CSS3**
+
+---
+
+## 📁 Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/JoffreyxD/Digital-react-app.git
+cd Digital-react-app
+npm install
+npm run dev
 
 ---
 
