@@ -2,7 +2,8 @@ Of course! Here's a custom `README.md` for your **Digital React App**, written c
 
 ---
 
-### 📘 `README.md` for [Digital React App]https://joffreyxd.github.io/Digital-react-app/
+### 📘 `README.md` for [Live Demo](https://joffreyxd.github.io/Digital-react-app/)
+
 
 ````markdown
 # 🧠 Digital React App
